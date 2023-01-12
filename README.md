@@ -4,7 +4,7 @@
 
 # Usage
 
-1. Compiling the library
+**1. Compiling the library
 
 without bonus functions
 
@@ -18,7 +18,7 @@ with bonus functions
 make bonus
 ```
 
-2. Compiling the library
+**2. Compiling the library
 
 ```bash
 #include "libft.h"
