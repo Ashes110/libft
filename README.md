@@ -1,6 +1,6 @@
 # libft
 
-"libft" is a library of reimplementations and extensions of some functions in "libc".
+"libft" is a library of reimplementations in "libc" and extensions of some functions.
 
 # Usage
 
