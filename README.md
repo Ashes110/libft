@@ -4,6 +4,8 @@
 
 # Usage
 
+1. Compiling the library
+
 without bonus functions
 
 ```bash
@@ -14,4 +16,10 @@ with bonus functions
 
 ```bash
 make bonus
+```
+
+2. Compiling the library
+
+```bash
+#include "libft.h"
 ```
